@@ -79,18 +79,18 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(328, 83);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(56, 16);
+            this.label6.Size = new System.Drawing.Size(60, 16);
             this.label6.TabIndex = 13;
-            this.label6.Text = "Product:";
+            this.label6.Text = "Quotient:";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(328, 28);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(38, 16);
+            this.label5.Size = new System.Drawing.Size(68, 16);
             this.label5.TabIndex = 12;
-            this.label5.Text = "Sum:";
+            this.label5.Text = "Difference:";
             // 
             // lblProduct
             // 
