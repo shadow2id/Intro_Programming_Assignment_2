@@ -1,0 +1,10 @@
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\bin\Debug\RyanLab2.exe.config
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\bin\Debug\RyanLab2.exe
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\bin\Debug\RyanLab2.pdb
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\obj\Debug\RyanLab2.csproj.AssemblyReference.cache
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\obj\Debug\RyanLab2.Form1.resources
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\obj\Debug\RyanLab2.Properties.Resources.resources
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\obj\Debug\RyanLab2.csproj.GenerateResource.cache
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\obj\Debug\RyanLab2.csproj.CoreCompileInputs.cache
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\obj\Debug\RyanLab2.exe
+C:\Users\psgam\IntroProgramProjects\RyanLab2\RyanLab2\obj\Debug\RyanLab2.pdb
