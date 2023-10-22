@@ -71,10 +71,10 @@ namespace RyanLab2
             int num1 = (Int32.Parse(txtBoxNumber1.Text));
             int num2 = (Int32.Parse(txtBoxNumber2.Text));
 
-            //This code adds the numbers together
-            int sum = num1 + num2;
-            //This code multiplies the numbers together
-            int product = num1 * num2;
+            //This code subtracts the numbers
+            int sum = num1 - num2;
+            //This code divides the numbers
+            int product = num1 / num2;
 
             //This code displays the product of the multiplied numbers in the Product label
             lblProduct.Text = product.ToString();
